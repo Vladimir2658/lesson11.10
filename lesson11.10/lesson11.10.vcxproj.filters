@@ -18,5 +18,12 @@
     <ClCompile Include="z1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="z2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="infile.txt" />
+    <Text Include="data.txt" />
   </ItemGroup>
 </Project>
