@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-	artemiy lox nu tochno lox
+	ARTEMIY LOOOOOOX
 	return 0;
 }
