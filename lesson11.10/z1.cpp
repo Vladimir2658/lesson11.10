@@ -6,6 +6,6 @@
 using namespace std;
 
 int main() {
-	
+	cout << "Кирилл";
 	return 0;
 }
