@@ -25,5 +25,6 @@
   <ItemGroup>
     <Text Include="infile.txt" />
     <Text Include="data.txt" />
+    <Text Include="outfile.txt" />
   </ItemGroup>
 </Project>
