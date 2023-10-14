@@ -21,10 +21,14 @@
     <ClCompile Include="z2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="z3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="infile.txt" />
-    <Text Include="data.txt" />
     <Text Include="outfile.txt" />
+    <Text Include="in3.txt" />
+    <Text Include="out3.txt" />
   </ItemGroup>
 </Project>

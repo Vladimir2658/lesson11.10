@@ -5,7 +5,7 @@ using namespace std;
 //новый файл, в который переписать из исходного файла
 //все слова, состоящие не менее чем из семи букв.
 
-int main()
+int main2()
 {
 	setlocale(LC_ALL, "RU");
 	FILE *in, *out;
@@ -26,7 +26,9 @@ int main()
 				}
 			}
 		}
+		fclose(in);
+		fclose(out);
 	}
-		
+
 	return 0;
 }
